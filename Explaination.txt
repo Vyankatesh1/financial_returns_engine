@@ -1,0 +1,7 @@
+“I built a Financial Returns Engine that transforms raw monthly portfolio data into validated, explainable, and client-ready insights.
+
+The system accepts portfolio data via an API, validates it to prevent bad inputs, calculates core return and risk metrics like total return, CAGR, volatility, and Sharpe ratio, and then layers on an AI-style explainability module that converts numbers into natural language insights.
+
+The architecture is modular, API-first, and cloud-ready, mirroring how analytics engines like those used at BlackRock scale across clients.
+
+The key value is transparency: not just what the returns are, but why they look the way they do, enabling better client trust and decision-making.”
